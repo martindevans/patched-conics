@@ -2,3 +2,6 @@
 name = "patched-conics"
 version = "0.1.0"
 authors = ["Martin Evans <martindevans@gmail.com>"]
+
+[dependencies]
+nalgebra = "0.4.0"
